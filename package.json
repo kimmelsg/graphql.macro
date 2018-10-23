@@ -1,6 +1,6 @@
 {
   "name": "@kimmel/graphql.macro",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Compile GraphQL AST at build-time with babel-plugin-macros.",
   "author": "Michael Hsu <evenchange4@gmail.com>",
   "license": "MIT",
@@ -26,12 +26,12 @@
     "graphql-tag": "^2.6.1"
   },
   "devDependencies": {
-    "@babel/cli": "7.0.0-beta.39",
-    "@babel/core": "7.0.0-beta.39",
-    "@babel/node": "7.0.0-beta.39",
-    "@babel/plugin-proposal-object-rest-spread": "7.0.0-beta.39",
-    "@babel/preset-env": "7.0.0-beta.39",
-    "@babel/preset-flow": "7.0.0-beta.39",
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-flow": "^7.0.0",
     "ast-pretty-print": "2.0.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "8.2.1",
